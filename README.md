@@ -36,6 +36,8 @@ The dataset used is `churn_modelling.csv`, which includes the following features
   - Integrated the trained model into the app for real-time predictions.
 - **Cloud Deployment**:
   - Deployed the Streamlit web app to **Streamlit Cloud** for access from anywhere.
+
+
  
 ![SimpleANN (2)](https://github.com/user-attachments/assets/d4ccda4b-1f99-434e-8bce-004e55d4bc30)
 
